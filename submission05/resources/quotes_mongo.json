@@ -1,0 +1,243 @@
+
+    {
+      "_id": 1,
+      "author": "Confucius",
+      "text": "It does not matter how slowly you go as long as you do not stop.",
+      "adjective": "perseverant"
+    }
+    {
+      "_id": 2,
+      "author": "Albert Einstein",
+      "text": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "adjective": "dynamic"
+    }
+    {
+      "_id": 3,
+      "author": "Maya Angelou",
+      "text": "You may encounter many defeats, but you must not be defeated.",
+      "adjective": "resilient"
+    }
+    {
+      "_id": 4,
+      "author": "Walt Disney",
+      "text": "The way to get started is to quit talking and begin doing.",
+      "adjective": "action-oriented"
+    }
+    {
+      "_id": 5,
+      "author": "Helen Keller",
+      "text": "Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.",
+      "adjective": "optimistic"
+    }
+    {
+      "_id": 6,
+      "author": "Nelson Mandela",
+      "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+      "adjective": "resolute"
+    }
+    {
+      "_id": 7,
+      "author": "Steve Jobs",
+      "text": "Your time is limited, don't waste it living someone else's life.",
+      "adjective": "action-oriented"
+    }
+    {
+      "_id": 8,
+      "author": "Oprah Winfrey",
+      "text": "The biggest adventure you can take is to live the life of your dreams.",
+      "adjective": "optimistic"
+    }
+    {
+      "_id": 9,
+      "author": "Eleanor Roosevelt",
+      "text": "Do what you feel in your heart to be right, for you'll be criticized anyway.",
+      "adjective": "resolute"
+    }
+    {
+      "_id": 10,
+      "author": "Thomas Edison",
+      "text": "I have not failed. I've just found 10,000 ways that won't work.",
+      "adjective": "perseverant"
+    }
+    {
+      "_id": 11,
+      "author": "Ralph Waldo Emerson",
+      "text": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+      "adjective": "dynamic"
+    }
+    {
+      "_id": 12,
+      "author": "Coco Chanel",
+      "text": "Success is most often achieved by those who don't know that failure is inevitable.",
+      "adjective": "action-oriented"
+    }
+    {
+      "_id": 13,
+      "author": "Abraham Lincoln",
+      "text": "The best way to predict the future is to create it.",
+      "adjective": "perseverant"
+    }
+    {
+      "_id": 14,
+      "author": "Martin Luther King Jr.",
+      "text": "The time is always right to do what is right.",
+      "adjective": "resolute"
+    }
+    {
+      "_id": 15,
+      "author": "J.K. Rowling",
+      "text": "It is our choices that show what we truly are, far more than our abilities.",
+      "adjective": "dynamic"
+    }
+    {
+      "_id": 16,
+      "author": "Vincent Van Gogh",
+      "text": "Great things are not done by impulse but by a series of small things brought together.",
+      "adjective": "action-oriented"
+    }
+    {
+      "_id": 17,
+      "author": "Aristotle",
+      "text": "Excellence is an art won by training and habituation.",
+      "adjective": "optimistic"
+    }
+    {
+      "_id": 18,
+      "author": "Henry Ford",
+      "text": "Whether you think you can, or you think you can't – you're right.",
+      "adjective": "resolute"
+    }
+    {
+      "_id": 19,
+      "author": "Mark Twain",
+      "text": "The secret of getting ahead is getting started.",
+      "adjective": "dynamic"
+    }
+    {
+      "_id": 20,
+      "author": "Winston Churchill",
+      "text": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "adjective": "perseverant"
+    }
+    {
+      "_id": 21,
+      "author": "Rumi",
+      "text": "The wound is the place where the light enters you.",
+      "adjective": "optimistic"
+    }
+    {
+      "_id": 22,
+      "author": "Ayn Rand",
+      "text": "The question isn't who is going to let me; it's who is going to stop me.",
+      "adjective": "resolute"
+    }
+    {
+      "_id": 23,
+      "author": "Pablo Picasso",
+      "text": "Every child is an artist. The problem is how to remain an artist once he grows up.",
+      "adjective": "action-oriented"
+    }
+    {
+      "_id": 24,
+      "author": "C.S. Lewis",
+      "text": "You are never too old to set another goal or to dream a new dream.",
+      "adjective": "optimistic"
+    }
+    {
+      "_id": 25,
+      "author": "Stephen Hawking",
+      "text": "Remember to look up at the stars and not down at your feet.",
+      "adjective": "dynamic"
+    }
+    {
+      "_id": 26,
+      "author": "Rosa Parks",
+      "text": "I have learned over the years that when one's mind is made up, this diminishes fear.",
+      "adjective": "action-oriented"
+    }
+    {
+      "_id": 27,
+      "author": "John F. Kennedy",
+      "text": "Change is the law of life. And those who look only to the past or present are certain to miss the future.",
+      "adjective": "perseverant"
+    }
+    {
+      "_id": 28,
+      "author": "Malala Yousafzai",
+      "text": "We realize the importance of our voices only when we are silenced.",
+      "adjective": "optimistic"
+    }
+    {
+      "_id": 29,
+      "author": "Harriet Tubman",
+      "text": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+      "adjective": "resolute"
+    }
+    {
+      "_id": 30,
+      "author": "Frederick Douglass",
+      "text": "If there is no struggle, there is no progress.",
+      "adjective": "dynamic"
+    }
+    {
+      "_id": 31,
+      "author": "Jane Goodall",
+      "text": "What you do makes a difference, and you have to decide what kind of difference you want to make.",
+      "adjective": "action-oriented"
+    }
+    {
+      "_id": 32,
+      "author": "Muhammad Ali",
+      "text": "Don't count the days, make the days count.",
+      "adjective": "optimistic"
+    }
+    {
+      "_id": 33,
+      "author": "Anne Frank",
+      "text": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+      "adjective": "perseverant"
+    }
+    {
+      "_id": 34,
+      "author": "Franklin D. Roosevelt",
+      "text": "The only limit to our realization of tomorrow will be our doubts of today.",
+      "adjective": "resolute"
+    }
+    {
+      "_id": 35,
+      "author": "Marie Curie",
+      "text": "Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.",
+      "adjective": "optimistic"
+    }
+    {
+      "_id": 36,
+      "author": "J.R.R. Tolkien",
+      "text": "Even the smallest person can change the course of the future.",
+      "adjective": "dynamic"
+    }
+    {
+      "_id": 37,
+      "author": "Margaret Mead",
+      "text": "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.",
+      "adjective": "action-oriented"
+    }
+    {
+      "_id": 38,
+      "author": "George Bernard Shaw",
+      "text": "Life isn't about finding yourself. It's about creating yourself.",
+      "adjective": "optimistic"
+    }
+    {
+      "_id": 39,
+      "author": "Voltaire",
+      "text": "Man is free at the moment he wishes to be.",
+      "adjective": "resolute"
+    }
+    {
+      "_id": 40,
+      "author": "John Wooden",
+      "text": "Success is never final, failure is never fatal. It's courage that counts.",
+      "adjective": "perseverant"
+    }
+
+  

@@ -1,0 +1,9 @@
+http://ps.cs.smu.ca/~u44/submissions/submission01/my_business.php
+http://ps.cs.smu.ca/~u44/submissions/submission01/pages/estore.php
+http://ps.cs.smu.ca/~u44/submissions/submission01/pages/sorry.php
+http://ps.cs.smu.ca/~u44/submissions/submission01/pages/events_recurring.php
+http://ps.cs.smu.ca/~u44/submissions/submission01/pages/events_oneoff.php
+http://ps.cs.smu.ca/~u44/submissions/submission01/pages/events_archived.php
+http://ps.cs.smu.ca/~u44/submissions/submission01/pages/vision.php
+http://ps.cs.smu.ca/~u44/submissions/submission01/pages/locations.php
+http://ps.cs.smu.ca/~u44/submissions/submission01/pages/sitemap.php
